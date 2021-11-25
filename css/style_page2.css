@@ -310,7 +310,7 @@ h4 {
 
 .picture {
   grid-area: picture; /* place the content in the corrispnding cell*/
-  background: url(../img/second-background.jpg);
+  background: url(/img/second-background.jpg);
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
