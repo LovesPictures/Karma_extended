@@ -137,7 +137,7 @@ a:hover {
   padding: 0;
   max-height: 100%; /*new*/
   max-width: 100%; /*new*/
- background-image: url(./img/first-background.jpg);
+ background-image: url(img/first-background.jpg);
   background-repeat: no-repeat;
   -webkit-background-size: cover;
   -moz-background-size: cover;
